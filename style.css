@@ -1,0 +1,104 @@
+header.azul{
+    color: blue;
+    position: relative;
+    left: 510px;
+}
+
+table.impreso {
+    border: blue 2px solid;
+    position: relative;
+    width: 400px;
+    height: 200px;
+}
+
+ul.numero {
+    list-style-type: decimal;
+    position: relative;
+    left: -130px;
+    top: 5px;
+}
+
+td.mover {
+    position: relative;
+    left: 130px;
+    top: -20px;
+}
+
+section.practica-32{
+    position: relative;
+    left: 402px;
+    top: -200px;
+}
+
+
+section.practica-33{
+    position: relative;
+    left: 804px;
+    top: -400px;
+}
+
+section.practica-36{
+    position: relative;
+    left: 804px;
+    top: -398px;
+}
+
+section.practica-35{
+    position: relative;
+    left: 402px;
+    top: -598px;
+}
+
+section.practica-34{
+    position: relative;
+    left: 0px;
+    top: -798px;
+}
+
+h2.centro {
+    position: relative;
+    left: 500px;
+}
+
+
+section.practica-38{
+    position: relative;
+    left: 402px;
+    top: -996px;
+}
+
+section.practica-37{
+    position: relative;
+    left: 0px;
+    top: -796px;
+}
+
+section.practica-39{
+    position: relative;
+    left: 804px;
+    top: -1196px;
+}
+
+section.practica-310{
+    position: relative;
+    left: 0px;
+    top: -1194px;
+}
+
+section.practica-311{
+    position: relative;
+    left: 402px;
+    top: -1394px;
+}
+
+section.practica-312{
+    position: relative;
+    left: 804px;
+    top: -1594px;
+}
+
+section.practica-313{
+    position: relative;
+    left: 0px;
+    top: -1590px;
+}
